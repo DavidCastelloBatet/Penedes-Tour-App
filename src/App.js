@@ -1,13 +1,10 @@
 import React, { Component } from "react";
+import Navbar from "./components/Navbar/Navbar";
 import "./App.scss";
 
 class App extends Component {
   render() {
-    return (
-      <h1>
-        Hola a tothom <i className="fab fa-adobe"></i>
-      </h1>
-    );
+    return <Navbar />;
   }
 }
 
