@@ -87,7 +87,7 @@ export const tourData = [
   },
   {
     id: 12,
-    city: "El Pla del Penedès",
+    city: "El Pla del Penedès ",
     img: "./img/pla.jpg",
     name: "Plaça de la Vila",
     info:
